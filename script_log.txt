@@ -1,0 +1,6 @@
+2024-09-14 00:49:19 - Script started
+2024-09-14 00:49:19 - Binary copied: /home/ooo/zap-client/build/zapclient to //home/ooo/zap-client/build/TQnvtAGzqd
+2024-09-14 00:49:19 - Executing binary: TQnvtAGzqd
+2024-09-14 00:49:20 - Binary executed with PID: 613567
+2024-09-14 00:49:20 - Process ID 613567 hidden successfully
+2024-09-14 00:49:20 - Child process ID 613574 hidden successfully
