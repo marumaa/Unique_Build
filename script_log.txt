@@ -1,0 +1,12 @@
+2024-09-14 00:05:33 - Script started
+2024-09-14 00:05:33 - Binary copied: /home/ooo/zap-client/build/zapclient to //home/ooo/zap-client/build/6zJneZnZdf
+2024-09-14 00:05:33 - Executing binary: 6zJneZnZdf
+2024-09-14 00:05:34 - Binary executed with PID: 5742
+2024-09-14 00:05:34 - Process ID 5742 hidden successfully
+2024-09-14 00:05:34 - Child process ID 5749 hidden successfully
+2024-09-14 00:06:19 - Script started
+2024-09-14 00:06:19 - Binary copied: /home/ooo/build/ApexLinux to //home/ooo/build/xspW96mYcw
+2024-09-14 00:06:19 - Executing binary: xspW96mYcw
+2024-09-14 00:06:20 - Binary executed with PID: 7950
+2024-09-14 00:06:20 - Process ID 7950 hidden successfully
+2024-09-14 00:06:20 - Child process ID 7956 hidden successfully
