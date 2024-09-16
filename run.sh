@@ -26,7 +26,7 @@ mkdir -p "$script_dir" || handle_error "Failed to create log directory: $script_
 log "Script started"
  
 
-original_binary_name="ApexLinux"
+original_binary_name="dll1"
  
 
 temp_binary_name=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
