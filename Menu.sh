@@ -192,12 +192,12 @@ show_feature_toggles() {
     choices=$(dialog --checklist "Toggle Features On/Off" 20 60 10 \
         1 "Aimbot" "$AIMBOT_STATUS" \
         2 "Glow" "$SENSE_STATUS" \
-        3 "Item Glow" "$ITEM_GLOW_STATUS" \
-        4 "No Recoil" "$NORECOIL_STATUS" \
-        5 "Triggerbot" "$TRIGGERBOT_STATUS" \
-        6 "Spectator" "$SPECTATOR_STATUS" \
-        7 "Skin Changer" "$SKINCHANGER_STATUS" \
-        8 "Super Glide" "$SUPER_GLIDE_STATUS" 2>&1 >/dev/tty)
+        3 "アイテムGlow" "$ITEM_GLOW_STATUS" \
+        4 "アンチリコイル" "$NORECOIL_STATUS" \
+        5 "トリガーボット" "$TRIGGERBOT_STATUS" \
+        6 "観戦者" "$SPECTATOR_STATUS" \
+        7 "スキンチェンジャー" "$SKINCHANGER_STATUS" \
+        8 "スパグラ" "$SUPER_GLIDE_STATUS" 2>&1 >/dev/tty)
 
     # Reset all features to "NO"
     update_ini "FEATURE_AIMBOT_ON" "NO"
